@@ -1,0 +1,9 @@
+HRK [1],5
+HRK [5],20
+HRK CX,[[1]]  //memory[[1]] = 20
+
+HRK AX,7	
+HRK BX,3
+HRK DX,2
+TOP AX,BX
+CRP DX,BX
